@@ -1,2 +1,2 @@
 # FusedLocationProviderClient
-FusedLocationProviderClient example
+FusedLocationProviderClient example with kotlin
